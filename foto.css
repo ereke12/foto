@@ -1,0 +1,129 @@
+body{
+  background-image: url(https://cdn.wallpapersafari.com/33/89/U6l57O.jpg);
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+  background-color: #153a42;
+  width: 200px;
+  margin-left: 670px;
+  color: white;
+}
+.glav{
+  margin-left: 70px;
+  margin-top: 100px;
+  width: 1530px;
+  height: 1800px;
+  background-color: #cdc7cf;
+  border: 3px solid #9a68ab;
+  border-radius: 50px;
+  box-shadow: 0px 30px 50px yellow;
+}
+.vsefoto{
+  margin-left: 60px;
+}
+#foto{
+  border: 5px solid #032130;
+  border-radius: 10px;
+  box-shadow: 0px 30px 50px black;
+  margin-left: 40px;
+  margin-top: 20px;
+  transition: 2s all;
+}
+/* #foto:hover{
+  transform: scale(1.1);
+  transition: 2s all;
+} */
+#foto[tabindex="0"]:focus{
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: auto;
+  height: auto;
+  max-width: 95%;
+  max-height: 95%;
+  margin: auto;
+  box-shadow: 0px 30px 100px black;
+  /* box-shadow: 0 0 20px #000, 0 0 0 1000px rgba(59, 59, 59, 0.5); */
+}
+#foto[tabindex="0"]:focus{
+  pointer-events: auto;
+}
+.glav2{
+  margin-left: 70px;
+  margin-top: 100px;
+  width: 1530px;
+  height: 3000px;
+  border: 5px solid white;
+  border-radius: 50px;
+  background-color: #ade9f6;
+  color: black;
+  box-shadow: 0px 30px 50px red;
+}
+video{
+  border: 5px solid black;
+  border-radius: 10px;
+  margin-left: 140px;
+  box-shadow: 20px 20px 30px black;
+}
+h3{
+  margin-left: 200px;
+  background-color: #c47665;
+  width: 200px;
+}
+#tansy{
+  width: 300px;
+  text-align: center;
+  font-size: 30px;
+  background-color: #153a42;
+  margin-left: 620px;
+  color: white;
+}
+#ta{
+  margin-left: 600px;
+  background-color: #c47665;
+  width: 320px;
+  margin-top: -42px;
+}
+#Nury{
+  width: 300px;
+  margin-left: 610px;
+}
+#Nnn{
+  margin-left: 50px;
+}
+#er{
+  margin-left: 1090px;
+  background-color: #c47665;
+  width: 270px;
+  margin-top: -42px;
+}
+#baha{
+  margin-left: 480px;
+  background-color: #c47665;
+  width: 200px;
+}
+#Nglav{
+  margin-left: 1180px;
+  background-color: #c47665;
+  width: 300px;
+  margin-top: -42px;
+}
+#ac{
+  margin-left: 130px;
+  background-color: #c47665;
+  width: 150px;
+  margin-top: -42px;
+}
+#jaz{
+  margin-left: 880px;
+  background-color: #c47665;
+  width: 150px;
+  margin-top: -42px;
+}
